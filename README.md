@@ -4,3 +4,4 @@
 - 📝 Documenting my journey through machine exploitation
 - 🐛 Bug hunting enthusiast
 - ⚔️ CTF player in training
+- 💻 Programmer
