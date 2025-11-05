@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anas Ibrahimi
 
-### A Computer Science Student & a Full Stack Developer
+### A Computer Science Student & a Full Stack Developer currently based in Jeddah, Saudi Arabia
 
 - 📫 **Reach me at:** [anasibrahimi4664@gmail.com](mailto:anasibrahimi4664@gmail.com)  
 - 📄 **View my résumé:** [My CV on Google Drive](https://drive.google.com/file/d/1UNoXEIINNkZMJPyuwGAZH8s4Q_8dGBVN/view?usp=share_link)
