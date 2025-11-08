@@ -4,6 +4,7 @@
 
 - 📫 **Reach me at:** [anasibrahimi4664@gmail.com](mailto:anasibrahimi4664@gmail.com)  
 - 📄 **View my résumé:** [My CV on Google Drive](https://drive.google.com/file/d/1fWBvk3egcA291KW_l570ZDqCtXDVe5xO/view?usp=share_link)
+- 💻 **View my portfolio** [(https://portfolio-inky-zeta-54.vercel.app)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
